@@ -79,6 +79,9 @@ Inspired by the [Crypto Best List](https://cryptobestlist.com/) list thing.
 
 ## Miscellaneous
 
+- **[QuantumPools](https://quantumpools.io)** - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
+  - [Website](https://quantumpools.io)
+
 - **CryptoBestList** - A website providing comprehensive reviews and comparisons of various crypto tools and services.
   - [Website](https://cryptobestlist.com/category/crypto-tools/)
 
